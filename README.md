@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning AI/ML, mostly related to machine vision.
-- 📫 How to reach me: neil.theotherneo@gmail.com
+- 🔭 Find some experiments at https://www.kaggle.com/theotherneo
+- 📫 Reach me at neil.theotherneo@gmail.com
